@@ -17,6 +17,7 @@
 		2F08124D27BE0D1300372841 /* SearchResultCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F08124C27BE0D1300372841 /* SearchResultCell.xib */; };
 		2F2466CA27BE219600D65B68 /* SearchResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2466C927BE219600D65B68 /* SearchResultCell.swift */; };
 		2F2466CC27BE30C600D65B68 /* NothingFoundCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F2466CB27BE30C600D65B68 /* NothingFoundCell.xib */; };
+		2F2466CE27C0E8A900D65B68 /* LoadingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F2466CD27C0E8A900D65B68 /* LoadingCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		2F08124C27BE0D1300372841 /* SearchResultCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchResultCell.xib; sourceTree = "<group>"; };
 		2F2466C927BE219600D65B68 /* SearchResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultCell.swift; sourceTree = "<group>"; };
 		2F2466CB27BE30C600D65B68 /* NothingFoundCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NothingFoundCell.xib; sourceTree = "<group>"; };
+		2F2466CD27C0E8A900D65B68 /* LoadingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				2F08123C27BCC21400372841 /* Main.storyboard */,
 				2F2466C927BE219600D65B68 /* SearchResultCell.swift */,
 				2F2466CB27BE30C600D65B68 /* NothingFoundCell.xib */,
+				2F2466CD27C0E8A900D65B68 /* LoadingCell.xib */,
 				2F08123F27BCC21500372841 /* Assets.xcassets */,
 				2F08124A27BCD8A000372841 /* SearchResult.swift */,
 				2F08124127BCC21500372841 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				2F2466CC27BE30C600D65B68 /* NothingFoundCell.xib in Resources */,
 				2F08124327BCC21500372841 /* LaunchScreen.storyboard in Resources */,
+				2F2466CE27C0E8A900D65B68 /* LoadingCell.xib in Resources */,
 				2F08124027BCC21500372841 /* Assets.xcassets in Resources */,
 				2F08124D27BE0D1300372841 /* SearchResultCell.xib in Resources */,
 				2F08123E27BCC21400372841 /* Main.storyboard in Resources */,
