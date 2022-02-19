@@ -40,14 +40,14 @@
                             <constraint firstItem="jwj-do-UL4" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="0xM-XU-71f"/>
                             <constraint firstItem="9wE-ff-HBu" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="E99-JN-fBZ"/>
                             <constraint firstItem="9wE-ff-HBu" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="OiZ-jd-Ge3"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="9wE-ff-HBu" secondAttribute="trailing" id="dax-oW-qln"/>
+                            <constraint firstItem="9wE-ff-HBu" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="dax-oW-qln"/>
                             <constraint firstItem="jwj-do-UL4" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="min-Qa-oQQ"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="9wE-ff-HBu" secondAttribute="bottom" id="nQe-tu-TlI"/>
+                            <constraint firstItem="9wE-ff-HBu" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="nQe-tu-TlI"/>
                             <constraint firstItem="jwj-do-UL4" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="sfe-x7-zUm"/>
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="searchBar" destination="jwj-do-UL4" id="NIX-UP-ztl"/>
+                        <outlet property="searchBar" destination="jwj-do-UL4" id="GIv-M3-mpV"/>
                         <outlet property="tableView" destination="9wE-ff-HBu" id="DVc-OM-aL0"/>
                     </connections>
                 </viewController>
